@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEquatable", "IEquatable\IE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDisposable", "IDisposable\IDisposable.csproj", "{BEF716D6-D19F-4C55-AB84-93B89BE6AFCE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingSystem", "ParkingSystem\ParkingSystem.csproj", "{C25F1E65-DF45-47C7-BC83-26D5BD4EC401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyTreeStructure", "FamilyTreeStructure\FamilyTreeStructure.csproj", "{60CC00CA-D5E3-4F25-8256-4A07CA862E34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{BEF716D6-D19F-4C55-AB84-93B89BE6AFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEF716D6-D19F-4C55-AB84-93B89BE6AFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEF716D6-D19F-4C55-AB84-93B89BE6AFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C25F1E65-DF45-47C7-BC83-26D5BD4EC401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25F1E65-DF45-47C7-BC83-26D5BD4EC401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25F1E65-DF45-47C7-BC83-26D5BD4EC401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25F1E65-DF45-47C7-BC83-26D5BD4EC401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60CC00CA-D5E3-4F25-8256-4A07CA862E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60CC00CA-D5E3-4F25-8256-4A07CA862E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60CC00CA-D5E3-4F25-8256-4A07CA862E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60CC00CA-D5E3-4F25-8256-4A07CA862E34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
